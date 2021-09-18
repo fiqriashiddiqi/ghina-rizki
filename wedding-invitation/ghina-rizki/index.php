@@ -4,14 +4,13 @@ include('../ghina-rizki/koneksi.php');
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from ngantenstory.com/rita-omas/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Dec 2020 16:50:22 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-	<meta name="description" content="Undangan pernikahan Ghina dan Rizki. Minggu, 19 September 2021.">
-	<meta property="og:title" content="Undangan pernikahan Ghina dan Rizki. Minggu, 19 September 2021." />
-	<meta property="og:url" content="https://ghina-rizki.digital-invitation.com/" />
-	<meta property="og:description" content="Undangan pernikahan Ghina dan Rizki. Minggu, 19 September 2021.">
-	<meta property="og:image" content="https://ghina-rizki.digital-invitation.com/1.bp.blogspot.com/-FuprKxe6I3I/X3waINlnqnI/AAAAAAAAFzo/DF1N99KVgt8ZjEiaNubMyRjz17nxGNAxQCLcBGAsYHQ/s16000/AZ--531.jpg">
+	<meta name="description" content="Undangan pernikahan Fadla dan Rizki. Minggu, 19 September 2021.">
+	<meta property="og:title" content="Undangan pernikahan Fadla dan Rizki. Minggu, 19 September 2021." />
+	<meta property="og:url" content="https://fadla-rizki.digital-invitation.com/" />
+	<meta property="og:description" content="Undangan pernikahan Fadla dan Rizki. Minggu, 19 September 2021.">
+	<meta property="og:image" content="https://fadla-rizki.digital-invitation.com/1.bp.blogspot.com/-FuprKxe6I3I/X3waINlnqnI/AAAAAAAAFzo/DF1N99KVgt8ZjEiaNubMyRjz17nxGNAxQCLcBGAsYHQ/s16000/AZ--531.jpg">
 	<meta property="og:type" content="article" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="pingback" href="https://ngantenstory.com/xmlrpc.php" />
@@ -21,7 +20,7 @@ include('../ghina-rizki/koneksi.php');
 	</script>
 
 	<script>var et_site_url='https://ngantenstory.com/';var et_post_id='41900';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
-</script><title>Ghina & Rizki</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800%7CCabin%3Aregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CAlike%20Angular%3Aregular%7CCabin%3Aregular%2C500%2C600%2C700%2Citalic%2C500italic%2C600italic%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2C500%2C600%2C700%2C800%2C900%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CAlike%20Angular%3Aregular&#038;subset=latin%2Clatin-ext&#038;display=swap" />
+</script><title>Fadla & Rizki</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800%7CCabin%3Aregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CAlike%20Angular%3Aregular%7CCabin%3Aregular%2C500%2C600%2C700%2Citalic%2C500italic%2C600italic%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2C500%2C600%2C700%2C800%2C900%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CAlike%20Angular%3Aregular&#038;subset=latin%2Clatin-ext&#038;display=swap" />
 <script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"sys":[]};!function(){"use strict";!function(){window.DiviArea=window.DiviPopup={loaded:!1};var n=window.DiviArea,i=n.Hooks={},t={};function o(n,i,o){var e,r,c;if("string"==typeof n)if(t[n]){if(i)if((e=t[n])&&o)for(c=e.length;c--;)(r=e[c]).callback===i&&r.context===o&&(e[c]=!1);else for(c=e.length;c--;)e[c].callback===i&&(e[c]=!1)}else t[n]=[]}function e(n,i,o,e){if("string"==typeof n){var r={callback:i,priority:o,context:e},c=t[n];c?(c.push(r),c=function(n){var i,t,o,e,r=n.length;for(e=1;e<r;e++)for(i=n[e],t=e;t>0;t--)(o=n[t-1]).priority>i.priority&&(n[t]=o,n[t-1]=i);return n}(c)):c=[r],t[n]=c}}function r(n,i,o){var e,r;for("string"==typeof i&&(i=[i]),e=0;e<i.length;e++){var c=t[i[e]],f=!1,a=void 0;if(c){var l=c.length;for(r=0;r<l;r++)if(c[r])if("filter"===n)void 0!==(a=c[r].callback.apply(c[r].context,o))&&(o[0]=a);else{if(!c[r]||"function"!=typeof c[r].callback)return!1;c[r].callback.apply(c[r].context,o)}else f=!0;if(f)for(r=l;r--;)c[r]||c.splice(r,1)}}if("filter"===n)return o[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(n,i){o(n,i)},n.removeAction=i.removeAction=function(n,i){o(n,i)},n.applyFilters=i.applyFilters=function(n){for(var i=[],t=arguments.length-1;t-- >0;)i[t]=arguments[t+1];return r("filter",n,i)},n.doAction=i.doAction=function(n){for(var i=[],t=arguments.length-1;t-- >0;)i[t]=arguments[t+1];r("action",n,i)},n.addFilter=i.addFilter=function(n,i,t,o){e(n,i,parseInt(t||10,10),o||window)},n.addAction=i.addAction=function(n,i,t,o){e(n,i,parseInt(t||10,10),o||window)},n.addActionOnce=i.addActionOnce=function(n,i,t,r){e(n,i,parseInt(t||10,10),r||window),e(n,(function(){o(n,i)}),1+parseInt(t||10,10),r||window)}}()}();
 </script><link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -109,9 +108,9 @@ jQuery(function($){
 
 });
 </script>
-<link rel="icon" href="../wp-content/uploads/2020/03/cropped-FAVICON-NEW-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="../wp-content/uploads/2020/03/cropped-FAVICON-NEW-2-32x32.png" sizes="32x32" /><!-- 
 <link rel="icon" href="../wp-content/uploads/2020/03/cropped-FAVICON-NEW-2-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="../wp-content/uploads/2020/03/cropped-FAVICON-NEW-2-180x180.png" />
+<link rel="apple-touch-icon" href="../wp-content/uploads/2020/03/cropped-FAVICON-NEW-2-180x180.png" /> -->
 <meta name="msapplication-TileImage" content="https://ngantenstory.com/wp-content/uploads/2020/03/cropped-FAVICON-NEW-2-270x270.png" />
 <link rel="stylesheet" id="et-core-unified-41900-cached-inline-styles" href="../wp-content/et-cache/41900/et-core-unified-41900-16068275779004.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>	
 	
@@ -149,7 +148,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner"><h2>Undangan Pernikahan</h2>
 <p>&nbsp;</p>
-<h1>Ghina &amp; Rizki</h1>
+<h1>Fadla &amp; Rizki</h1>
 <p>&nbsp;</p></div>
 			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
 				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_0 et_animated et_pb_bg_layout_light" href="#" data-icon="&#xe089;">Buka Undangan</a>
@@ -208,7 +207,7 @@ jQuery(function($){
 				<div class="et_pb_blurb_content">
 					
 					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Ghina & Rizki</span></h4>
+						<h4 class="et_pb_module_header"><span>Fadla & Rizki</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">19 September 2021</p></div>
 
 						<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/u/0?cid=ZjAxOWhqdDZtZWpicGVzZ2tiZTg4cGVqa2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" style="background-color: #8d8780;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a> -->
@@ -593,7 +592,7 @@ jQuery(function($){
 					
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span style="font-size: 20px;">Terima kasih</span></h4>
-						<div class="et_pb_blurb_description"><p><br>Ghina &amp; Rizki</p></div>
+						<div class="et_pb_blurb_description"><p><br>Fadla &amp; Rizki</p></div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -703,7 +702,5 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
 	</script>
 </body>
 
-<!-- Mirrored from ngantenstory.com/rita-omas/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Dec 2020 16:50:29 GMT -->
 </html>
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1606828293 -->
