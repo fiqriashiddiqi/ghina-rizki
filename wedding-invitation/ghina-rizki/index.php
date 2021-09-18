@@ -220,7 +220,7 @@ jQuery(function($){
 			</div> <!-- .et_pb_row -->
 				
 				<div class="et_pb_bottom_inside_divider et-no-transition"></div>
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider" style="background-color: #FFC0CB!important;">
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider" style="background-color: #a87850!important;">
 				
 				
 				
@@ -318,7 +318,7 @@ jQuery(function($){
 			</div> <!-- .et_pb_column -->
 				
 				
-			</div> <!-- .et_pb_row --><div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #FFC0CB!important;">
+			</div> <!-- .et_pb_row --><div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #a87850!important;">
 				<div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
 				
 				
@@ -359,7 +359,7 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://g.page/grand-cordela-kuningan?share" target="_blank" style="background-color: #FFC0CB!important;">Google Maps</a>
+				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://g.page/grand-cordela-kuningan?share" target="_blank" style="background-color: #a87850!important;">Google Maps</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -457,7 +457,7 @@ jQuery(function($){
 				
 				
 				
-					<div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #FFC0CB!important;">
+					<div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #a87850!important;">
 				<div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough" style="width: 100%;">
 				
 				
@@ -489,7 +489,7 @@ jQuery(function($){
 				
 				
 			</div>
-			<div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider" style="background-color: #FFC0CB!important;">
+			<div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider" style="background-color: #a87850!important;">
 				
 				
 				
@@ -571,7 +571,7 @@ jQuery(function($){
 						<!-- <input type="hidden" value="et_contact_proccess" name="et_pb_contactform_submit_0"/> -->
 						<div class="et_contact_bottom_container">
 							
-							<button type="submit" class="et_pb_contact_submit et_pb_button" style="background-color: #FFC0CB">Kirim</button>
+							<button type="submit" class="et_pb_contact_submit et_pb_button" style="background-color: #a87850">Kirim</button>
 						</div>
 						<!-- <input type="hidden" id="_wpnonce-et-pb-contact-form-submitted-0" name="_wpnonce-et-pb-contact-form-submitted-0" value="c9b9bf1646" /><input type="hidden" name="_wp_http_referer" value="" /> -->
 					</form>
