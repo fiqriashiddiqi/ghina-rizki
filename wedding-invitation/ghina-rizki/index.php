@@ -346,7 +346,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Sabtu, 18 September 2021<br> 11.00 s/d 14.00 WIB<br> <strong>Grand Cordela Hotel Kuningan</strong><br> Jl. Siliwangi No.91, Purwawinangun, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat, 45511</p>
+							<p>Minggu, 19 September 2021<br> 11.00 s/d 14.00 WIB<br> <strong>Grand Cordela Hotel Kuningan</strong><br> Jl. Siliwangi No.91, Purwawinangun, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat, 45511</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
